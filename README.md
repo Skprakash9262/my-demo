@@ -1,2 +1,2 @@
 # my-demo
-This is my Demo for Git and Github.
+This is my Demo for Git and Github for study.
